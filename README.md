@@ -27,4 +27,5 @@ Splitting the data into training and validation sets for model evaluation.
 ### Model Evaluation:
 
 Evaluating models using metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and RMSLE (Root Mean Squared Logarithmic Error).
-Fine-tuning hyperparameters to optimize model performance using techniques like Grid Search or Random Search.
+Fine-tuning hyperparameters to optimize model performance using techniques like Grid Search or Random Search. 
+RMSLE is the main metric used to evaluate the model.
